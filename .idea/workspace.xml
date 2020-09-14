@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40c0581e-4b43-4288-87cb-ccfd13b4c352" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoilerPlate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountDownTimer/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountDownTimer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/10Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10Project.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hV12iYbnNcdMqwwRnLI7Eyqdlt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BoilerPlate/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c0581e-4b43-4288-87cb-ccfd13b4c352" name="Default Changelist" comment="" />
+      <created>1600081239538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600081239538</updated>
+      <workItem from="1600081240780" duration="1866000" />
+      <workItem from="1600085448165" duration="5113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="817" y="454" key="Github.ShareDialog" timestamp="1600081507329">
+      <screen x="322" y="27" width="1598" height="1053" />
+    </state>
+    <state x="817" y="454" key="Github.ShareDialog/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600081507329" />
+    <state x="753" y="280" width="403" height="545" key="Github.UntrackedFilesDialog" timestamp="1600081519006">
+      <screen x="322" y="27" width="1598" height="1053" />
+    </state>
+    <state x="753" y="280" width="403" height="545" key="Github.UntrackedFilesDialog/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600081519006" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1600082557620">
+      <screen x="322" y="27" width="1598" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600082557620" />
+    <state width="724" height="446" key="SwitcherDM" timestamp="1600091442121">
+      <screen x="322" y="27" width="1598" height="1053" />
+    </state>
+    <state width="724" height="446" key="SwitcherDM/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600091442121" />
+  </component>
+</project>
