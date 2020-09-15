@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en" xmlns="">
+<head>
+    <meta charset="UTF-8">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="assets/css/main.css">
+    <title>Quiz App</title>
+</head>
+<body>
+<div class="container mx-auto my-4">
+    <div class="row justify-content-center">
+        <div class="text-muted my-4">
+            <h4>Quiz Application</h4>
+        </div>
+    </div>
+
+    <form id="quiz-form" class="quiz py-4 bg-primary">
+        <div class="container">
+            <div class="my-5 text-white">
+                <p class="lead font-weight-normal">
+                    Qn1. It is easier to roll a stone up a sloping road than to lift it vertical upwards because
+                </p>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn1a" name="qn1" value="a" checked>
+                    <label class="form-check-label">work done in rolling is more than in lifting</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn1b" name="qn1" value="b">
+                    <label class="form-check-label">work done in lifting the stone is equal to rolling it</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn1c" name="qn1" value="c">
+                    <label class="form-check-label">work done in both is same but the rate of doing work is less in rolling</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn1d" name="qn1" value="d">
+                    <label class="form-check-label">work done in rolling a stone is less than in lifting it</label>
+                </div>
+            </div>
+
+            <div class="my-5 text-white">
+                <p class="lead font-weight-normal">
+                    Qn2. The absorption of ink by blotting paper involves
+                </p>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn2a" name="qn2" value="a" checked>
+                    <label class="form-check-label">viscosity of ink</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn2b" name="qn2" value="b">
+                    <label class="form-check-label">capillary action phenomenon</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn2c" name="qn2" value="c">
+                    <label class="form-check-label">diffusion of ink through the blotting</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn2d" name="qn2" value="d">
+                    <label class="form-check-label">siphon action</label>
+                </div>
+            </div>
+
+            <div class="my-5 text-white">
+                <p class="lead font-weight-normal">
+                    Qn3. Light year is a unit of
+                </p>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn3a" name="qn3" value="a" checked>
+                    <label class="form-check-label">time</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn3b" name="qn3" value="b">
+                    <label class="form-check-label">distance</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn3c" name="qn3" value="c">
+                    <label class="form-check-label">light</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn3d" name="qn3" value="d">
+                    <label class="form-check-label">intensity of light</label>
+                </div>
+            </div>
+
+            <div class="my-5 text-white">
+                <p class="lead font-weight-normal">
+                    Qn4. Light from the Sun reaches us in nearly
+                </p>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn4a" name="qn4" value="a" checked>
+                    <label class="form-check-label">2 minutes</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn4b" name="qn4" value="b">
+                    <label class="form-check-label">4 minutes</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn4c" name="qn4" value="c">
+                    <label class="form-check-label">8 minutes</label>
+                </div>
+                <div class="form-check my-2 text-white">
+                    <input type="radio" id="qn4d" name="qn4" value="d">
+                    <label class="form-check-label">16 minutes</label>
+                </div>
+            </div>
+
+            <div class="my-4">
+                <button class="gb-white btn-lg" type="submit" id="quiz-submit">Submit</button><button class="gb-white btn-lg ml-2" type="reset" id="quiz-reset">Reset</button>
+            </div>
+        </div>
+
+    </form>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>

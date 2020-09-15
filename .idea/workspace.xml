@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c0581e-4b43-4288-87cb-ccfd13b4c352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoilerPlate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountDownTimer/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountDownTimer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/10Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoilerPlate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BoilerPlate/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +49,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BoilerPlate/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600081239538</updated>
       <workItem from="1600081240780" duration="1866000" />
-      <workItem from="1600085448165" duration="5113000" />
+      <workItem from="1600085448165" duration="5168000" />
+      <workItem from="1600129267602" duration="2576000" />
     </task>
     <servers />
   </component>
@@ -86,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="817" y="454" key="Github.ShareDialog" timestamp="1600081507329">
