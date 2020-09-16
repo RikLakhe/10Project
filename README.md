@@ -1,25 +1,25 @@
 <h3>10 Hour 10 Project</h3>
 <hr />
 <ul>
-<li>Countdown Timer</li>
-<li>Quiz App</li>
-<li>Recipe App</li>
-<li>Notes App</li>
-<li>ToDo App</li>
-<li>Movies App</li>
-<li>Github Profiles</li>
-<li>Drawing App</li>
-<li>Password Generator</li>
-<li>Weather App</li>
-<li>Hamburger Button & Hidden Menu</li>
-<li>Toast Notification</li>
-<li>Auto Write Text</li>
-<li>Popup / Model</li>
-<li>Purple Heart Rain</li>
-<li>Background Changer</li>
-<li>Dark Mode Toggle</li>
-<li>Image Carousel</li>
-<li>Sound Board</li>
-<li>Zoom Effect</li>
+<li> &#9745; Countdown Timer</li>
+<li> &#9745; Quiz App</li>
+<li> &#9745; ToDo App</li>
+<li> &#9744; Recipe App</li>
+<li> &#9744; Notes App</li>
+<li> &#9744; Movies App</li>
+<li> &#9744; Github Profiles</li>
+<li> &#9744; Drawing App</li>
+<li> &#9744; Password Generator</li>
+<li> &#9744; Weather App</li>
+<li> &#9744; Hamburger Button & Hidden Menu</li>
+<li> &#9744; Toast Notification</li>
+<li> &#9744; Auto Write Text</li>
+<li> &#9744; Popup / Model</li>
+<li> &#9744; Purple Heart Rain</li>
+<li> &#9744; Background Changer</li>
+<li> &#9744; Dark Mode Toggle</li>
+<li> &#9744; Image Carousel</li>
+<li> &#9744; Sound Board</li>
+<li> &#9744; Zoom Effect</li>
 </ul>
 <hr />

@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fcc341;
+}
+
+.todo-list{
+    padding: 0;
+}
+
+.col-md-8{
+    background-color: #fcb1b1;
+}
+
+.todo-list > .card{
+    background-color: #ff5959;
+    color: white;
+    font-size: 25px;
+}
+
+.todo-list > .card > .card-body > .card-text{
+    max-width: 600px;
+    word-wrap: break-word;
+}
+
+
+.todo-list > .card:hover{
+    background-color: #8ba3fc;
+}

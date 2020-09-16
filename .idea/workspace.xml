@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c0581e-4b43-4288-87cb-ccfd13b4c352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/QuizApp/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizApp/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoilerPlate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BoilerPlate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +50,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BoilerPlate/assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BoilerPlate/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +67,9 @@
       <updated>1600081239538</updated>
       <workItem from="1600081240780" duration="1866000" />
       <workItem from="1600085448165" duration="5168000" />
-      <workItem from="1600129267602" duration="2576000" />
+      <workItem from="1600129267602" duration="4787000" />
+      <workItem from="1600191300531" duration="402000" />
+      <workItem from="1600214109354" duration="3420000" />
     </task>
     <servers />
   </component>
