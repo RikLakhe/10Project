@@ -20,12 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c0581e-4b43-4288-87cb-ccfd13b4c352" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TodoApp/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoApp/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/assets/js/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/assets/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/assets/js/httpsUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/assets/js/lucky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeApp/lucky.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuizApp/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +48,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RecipeApp/assets/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RecipeApp/assets/js" />
+      <recent name="$PROJECT_DIR$/RecipeApp" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -69,7 +75,9 @@
       <workItem from="1600085448165" duration="5168000" />
       <workItem from="1600129267602" duration="4787000" />
       <workItem from="1600191300531" duration="402000" />
-      <workItem from="1600214109354" duration="3420000" />
+      <workItem from="1600214109354" duration="4518000" />
+      <workItem from="1600388597330" duration="15641000" />
+      <workItem from="1600415011366" duration="1372000" />
     </task>
     <servers />
   </component>
@@ -105,5 +113,9 @@
       <screen x="322" y="27" width="1598" height="1053" />
     </state>
     <state width="724" height="446" key="SwitcherDM/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600091442121" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1600404825797">
+      <screen x="322" y="27" width="1598" height="1053" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/322.27.1598.1053/281.1080.1366.768@322.27.1598.1053" timestamp="1600404825797" />
   </component>
 </project>
