@@ -42,16 +42,17 @@ api_url : https://api.github.com/
 </ul>
 </li>
 </ul>
+<hr/>
 
-### Constructing a search query
+###  Constructing a search query
 q=SEARCH_KEYWORD_1+SEARCH_KEYWORD_N+QUALIFIER_1+QUALIFIER_N
 
 eg : q=GitHub+Octocat+in:readme+user:defunkt
-
+<hr/>
 
 ### Layout
 ![imgfirst](./../images/gitProfile.png)
-
+<hr/>
 ### Colors:
 <ul>
 <li>#2A223B</li>
