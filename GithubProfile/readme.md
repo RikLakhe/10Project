@@ -51,6 +51,7 @@ eg : q=GitHub+Octocat+in:readme+user:defunkt
 ### Layout
 ![imgfirst](./../images/gitProfile.png)
 <hr/>
+
 ### Colors:
 <ul>
 <li>#2A223B</li>
