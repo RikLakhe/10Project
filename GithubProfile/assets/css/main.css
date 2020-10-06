@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #2A223B;
+    height: 100%;
+}
+
+.hero-head header {
+    background-color: #3f355b;
+    color: #C89F84;
+    box-shadow: 5px 5px 5px 5px #261d32;
+}
+
+.hero-head header a {
+    color: #C89F84;
+}
+
+.hero-head header a:hover, .hero-head header a.navbar-item.is-active {
+    color: #10B9C9;
+    background-color: #3f355b;
+}
+
+.card-footer-item{
+    flex-wrap: wrap;
+}
